@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center" width=200>
-  <img src="https://www.instagram.com/p/CYoY-W9P8gU/">
+  <img src="https://th.bing.com/th/id/OIP.dERUMD2yqUG548gT2cU-sAHaHa?rs=1&pid=ImgDetMain">
 </div>
