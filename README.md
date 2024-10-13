@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar Singh</h1>
 <h3 align="center">Android & Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsingh0&label=Profile%20views&color=0e56b4&style=flat" alt="prakharsingh0" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsingh0&label=Profile%20views&color=0e56b4&style=flat" alt="prakharsingh0" /> </p>-->
 
 - 📫 How to reach me **prakhar2p@gmail.com**
 
